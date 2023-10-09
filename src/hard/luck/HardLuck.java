@@ -34,7 +34,7 @@ public class HardLuck {
       int guess = myKB.nextInt();//adding the guess input to myKB
       
       if (guess == SecretNumber) { //conditional if guess equals secret number you win
-        System.out.println("You win!");//message to the user informing them of the victory
+        System.out.println("Luck You You win!");//message to the user informing them of the victory
         return; //A return of type property information request
       }    
       
