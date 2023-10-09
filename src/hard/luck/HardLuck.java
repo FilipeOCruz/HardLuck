@@ -45,7 +45,7 @@ public class HardLuck {
          * submitted by the user equals a value already entered
          */         
           if (guesses[i] == guess) {//If the number entered is equal to a number already entered in the array
-          System.out.println("That was a waste – you already guessed that number!");//Message saying "That was a waste – you already guessed that number!"
+          System.out.println("That was a waste – you already used that number!");//Message saying "That was a waste – you already guessed that number!"
           break; //Command used to end the current loop
         }
        }
