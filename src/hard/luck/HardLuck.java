@@ -14,7 +14,7 @@ import java.util.Scanner;
 public class HardLuck {
 
     /**
-     * @param args the command line arguments
+     * That`s an guessing game 
      */
     public static void main(String[] args) {
         
@@ -63,5 +63,5 @@ public class HardLuck {
  }
 }
         
-        // TODO code application logic here
+       
     
